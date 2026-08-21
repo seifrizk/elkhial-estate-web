@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "favorites": "Favorites",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "myProperties": "My Properties",
+    "addProperty": "Add Property",
+    "logout": "Logout"
+  },
+  "common": {
+    "search": "Search",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "upload": "Upload",
+    "cover": "Cover Image"
+  }
+}

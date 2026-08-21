@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "properties": "العقارات",
+    "favorites": "المفضلة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "dashboard": "لوحة التحكم",
+    "myProperties": "عقاراتي",
+    "addProperty": "أضف عقاراً",
+    "logout": "تسجيل الخروج"
+  },
+  "common": {
+    "search": "بحث",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "cancel": "إلغاء",
+    "upload": "رفع",
+    "cover": "صورة الغلاف"
+  }
+}
